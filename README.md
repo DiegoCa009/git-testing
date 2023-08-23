@@ -1,1 +1,1 @@
-git rm
+git rmasd
