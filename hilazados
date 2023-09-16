@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-16T05:41:53.166Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 OPR/101.0.0.0" etag="X_vW25v4830iZR98auUZ" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-16T05:42:52.963Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 OPR/101.0.0.0" etag="P0b67N7GAEVSLSUS0Li9" version="21.7.5" type="github">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
     <mxGraphModel dx="3361" dy="2338" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -133,7 +133,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wSZ-_AYTIdzXTehV5ZzJ-6" value="" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.479;entryY=-0.015;entryDx=0;entryDy=0;entryPerimeter=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" target="USLjKhspxAyYvMAhIt32-9" edge="1">
+        <mxCell id="wSZ-_AYTIdzXTehV5ZzJ-6" value="" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.479;entryY=-0.015;entryDx=0;entryDy=0;entryPerimeter=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" target="USLjKhspxAyYvMAhIt32-9" edge="1" source="wSZ-_AYTIdzXTehV5ZzJ-1">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="440" y="-100" as="sourcePoint" />
             <mxPoint x="599.94" y="93.5" as="targetPoint" />
@@ -150,7 +150,7 @@
         <mxCell id="wSZ-_AYTIdzXTehV5ZzJ-7" value="1..*" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;rounded=1;sketch=1;curveFitting=1;jiggle=2;" parent="wSZ-_AYTIdzXTehV5ZzJ-6" connectable="0" vertex="1">
           <mxGeometry x="-1" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wSZ-_AYTIdzXTehV5ZzJ-8" value="Contiene un array de Storage(interface)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+        <mxCell id="wSZ-_AYTIdzXTehV5ZzJ-8" value="Contiene un objeto de Storage(interface)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="240" y="20" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="USLjKhspxAyYvMAhIt32-1" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;rounded=1;exitX=-0.011;exitY=0.071;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="78961159f06e98e8-17" target="EHx2WIPm0TuzCmsqBZdK-2" edge="1">
