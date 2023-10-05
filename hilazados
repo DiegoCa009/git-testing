@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-05T02:26:32.841Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="sVGPbLQGlRXl-9OadERg" version="22.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-05T03:42:02.905Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="_o6EuklxGqMBaQfuWbRA" version="22.0.2" type="github">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
-    <mxGraphModel dx="4522" dy="2977" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3272" dy="2289" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -196,8 +196,8 @@
         <mxCell id="EHkgjuD4YXZnLKFM0HrP-1" value="+ setData(data: Product[]): void&amp;nbsp;&lt;br&gt;+ data(): Promise&amp;lt;Product[]&lt;br&gt;&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;curveFitting=1;jiggle=2;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="228.5" width="230" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="EHkgjuD4YXZnLKFM0HrP-3" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Abstract&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;View&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- data: Product[]&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- viewID: number&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ render(callback: Function&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;): void&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;rounded=1;sketch=1;curveFitting=1;jiggle=2;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="-1950" y="188.5" width="250" height="230" as="geometry" />
+        <mxCell id="EHkgjuD4YXZnLKFM0HrP-3" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Abstract&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;View&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- controller: View_Controller&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- template: HtmlElement&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- render(callback: Function&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;): void&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+update(): void&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;rounded=1;sketch=1;curveFitting=1;jiggle=2;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="-1700" y="30" width="250" height="230" as="geometry" />
         </mxCell>
         <mxCell id="sRhVqf3tM_LMIhMFdSJI-1" value="updateStorage():void&lt;br&gt;this.storage.update()" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="-270" y="370" width="280" height="150" as="geometry" />
@@ -220,7 +220,7 @@
             <mxPoint x="-120" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ivk_fidOGz_1klneD6PL-1" value="Search_View" style="swimlane;html=1;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+        <mxCell id="ivk_fidOGz_1klneD6PL-1" value="Search_View: View" style="swimlane;html=1;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="-1190" y="80" width="210" height="227" as="geometry" />
         </mxCell>
         <mxCell id="ivk_fidOGz_1klneD6PL-2" value="+ storage: Storages" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;curveFitting=1;jiggle=2;rounded=1;" parent="ivk_fidOGz_1klneD6PL-1" vertex="1">
@@ -235,8 +235,8 @@
         <mxCell id="ivk_fidOGz_1klneD6PL-5" value="- updateStorage(): void&lt;br&gt;- renderViews(): void&lt;br&gt;+ setView(view: newView):void" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;curveFitting=1;jiggle=2;rounded=1;shadow=0;" parent="ivk_fidOGz_1klneD6PL-1" vertex="1">
           <mxGeometry y="86" width="210" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="ivk_fidOGz_1klneD6PL-7" value="Product_view&lt;br&gt;" style="swimlane;html=1;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
-          <mxGeometry x="-1190" y="-227" width="210" height="227" as="geometry" />
+        <mxCell id="ivk_fidOGz_1klneD6PL-7" value="Product_view: View" style="swimlane;html=1;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="-1210" y="-213.5" width="210" height="227" as="geometry" />
         </mxCell>
         <mxCell id="ivk_fidOGz_1klneD6PL-8" value="+ state: Product[]&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;curveFitting=1;jiggle=2;rounded=1;" parent="ivk_fidOGz_1klneD6PL-7" vertex="1">
           <mxGeometry y="26" width="210" height="26" as="geometry" />
@@ -248,9 +248,9 @@
           <mxGeometry y="60" width="210" height="64" as="geometry" />
         </mxCell>
         <mxCell id="ivk_fidOGz_1klneD6PL-15" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Type&amp;gt;&amp;gt;&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&lt;b&gt;IView&lt;/b&gt;&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&amp;nbsp;&lt;/p&gt;[key:string]: View" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="-830" y="-300" width="190" height="140" as="geometry" />
+          <mxGeometry x="-830" y="-310" width="190" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="ivk_fidOGz_1klneD6PL-18" value="Shipping_View" style="swimlane;html=1;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+        <mxCell id="ivk_fidOGz_1klneD6PL-18" value="Shipping_View: View" style="swimlane;html=1;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="-1190" y="390" width="210" height="227" as="geometry" />
         </mxCell>
         <mxCell id="ivk_fidOGz_1klneD6PL-19" value="+ storage: Storages" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;curveFitting=1;jiggle=2;rounded=1;" parent="ivk_fidOGz_1klneD6PL-18" vertex="1">
@@ -321,6 +321,12 @@
         </mxCell>
         <mxCell id="TJq7KIT3SKN61-7FZDKz-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="TJq7KIT3SKN61-7FZDKz-17" target="TJq7KIT3SKN61-7FZDKz-1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TJq7KIT3SKN61-7FZDKz-22" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;exitX=0.29;exitY=-0.003;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="EHx2WIPm0TuzCmsqBZdK-1" target="ivk_fidOGz_1klneD6PL-15">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-640" as="sourcePoint" />
+            <mxPoint x="-480" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
