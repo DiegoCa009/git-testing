@@ -1,11 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2023-11-08T13:04:37.587Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/110.0" etag="NSZt_gMZ2NvrsQktLF8d" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-08T13:05:05.496Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/110.0" etag="Mp7YDHS4mg8u7wftuDTk" version="22.0.8" type="github">
   <diagram name="Page-1" id="3UoZhaWCRM7HqwmcosDM">
-    <mxGraphModel dx="733" dy="325" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1257" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="36LVIQtM5rxzBwu3Z0zY-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://assets-global.website-files.com/5e3de80322b300854230f11f/5f0e1ffb423a6a46482ca5d2_contact-us.jpg;" vertex="1" parent="1">
           <mxGeometry x="90" y="44.17" width="301.43" height="175.83" as="geometry" />
+        </mxCell>
+        <mxCell id="36LVIQtM5rxzBwu3Z0zY-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://foyr.com/learn/wp-content/uploads/2021/12/interior-design-website-color.png;" vertex="1" parent="1">
+          <mxGeometry x="400" y="34.58000000000001" width="260" height="195" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
