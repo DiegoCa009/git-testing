@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-03T20:07:03.519Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="mstEJv9YgMlaXsDl8Xog" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-03T20:18:56.870Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="88zWjNVsurrUuFqrfDOd" version="23.0.2" type="github">
   <diagram name="Página-1" id="eXoBqxva7JlCsiLJbye3">
-    <mxGraphModel dx="6138" dy="3610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1495" dy="1203" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -139,7 +139,7 @@
         <mxCell id="onPSuEXb-0Rg2rCfPPUU-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="onPSuEXb-0Rg2rCfPPUU-61" target="onPSuEXb-0Rg2rCfPPUU-70">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="onPSuEXb-0Rg2rCfPPUU-61" value="incomesuradas" style="rhombus;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="onPSuEXb-0Rg2rCfPPUU-61" value="jumbo" style="rhombus;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1869.99" y="1220" width="255" height="190" as="geometry" />
         </mxCell>
         <mxCell id="onPSuEXb-0Rg2rCfPPUU-62" value="Caso C" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
