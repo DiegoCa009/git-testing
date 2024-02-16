@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-16T11:19:07.305Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="okj2Fxs5WfO79_DjuBre" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-16T11:57:06.312Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="sxJf-Cr-HPKW-Ke_OzaM" version="23.1.5" type="github">
   <diagram name="Page-1" id="D6jSuuYGtf3E4rri9tUM">
-    <mxGraphModel dx="1706" dy="1071" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="823" dy="517" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -66,6 +66,9 @@
         </mxCell>
         <mxCell id="xoTJzdg2lMnU-Vgop3UH-26" value="Imprimir id y montoTotal" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=18;rounded=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="293" y="804" width="264" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xoTJzdg2lMnU-Vgop3UH-28" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;2.2&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="305" y="84" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
