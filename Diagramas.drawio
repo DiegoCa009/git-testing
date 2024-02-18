@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-18T08:11:38.498Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="tE-2b44-AZpLADxzvJQR" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-18T10:41:23.113Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="LB556UPJIb0t8Wyose_T" version="23.1.5" type="github">
   <diagram name="Page-1" id="D6jSuuYGtf3E4rri9tUM">
     <mxGraphModel dx="2255" dy="882" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -222,8 +222,84 @@
         <mxCell id="TKe2ElwG2QkSB_HnAReY-7" value="nombre &amp;lt;- &quot;Ingrese nombre&quot;" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="317" y="2844" width="204" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="TKe2ElwG2QkSB_HnAReY-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TKe2ElwG2QkSB_HnAReY-10" target="TKe2ElwG2QkSB_HnAReY-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TKe2ElwG2QkSB_HnAReY-10" value="apellido &amp;lt;-&quot;ingrese apellido&quot;" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="311" y="2928" width="216" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TKe2ElwG2QkSB_HnAReY-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TKe2ElwG2QkSB_HnAReY-14" target="TKe2ElwG2QkSB_HnAReY-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TKe2ElwG2QkSB_HnAReY-14" value="edad &amp;lt;- &quot;Ingrese su edad&quot;" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="311" y="3024" width="216" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TKe2ElwG2QkSB_HnAReY-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TKe2ElwG2QkSB_HnAReY-17" target="TKe2ElwG2QkSB_HnAReY-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TKe2ElwG2QkSB_HnAReY-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TKe2ElwG2QkSB_HnAReY-17" target="TKe2ElwG2QkSB_HnAReY-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TKe2ElwG2QkSB_HnAReY-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TKe2ElwG2QkSB_HnAReY-17" target="TKe2ElwG2QkSB_HnAReY-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="3150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TKe2ElwG2QkSB_HnAReY-17" value="genero &amp;lt;- &quot;Seleccione genero&quot;" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="300" y="3120" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TKe2ElwG2QkSB_HnAReY-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TKe2ElwG2QkSB_HnAReY-19" target="TKe2ElwG2QkSB_HnAReY-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TKe2ElwG2QkSB_HnAReY-19" value="si genero == M" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="94.25" y="3264" width="157.5" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="TKe2ElwG2QkSB_HnAReY-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TKe2ElwG2QkSB_HnAReY-21" target="TKe2ElwG2QkSB_HnAReY-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TKe2ElwG2QkSB_HnAReY-21" value="si genero == F" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="340.75" y="3264" width="157.5" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="TKe2ElwG2QkSB_HnAReY-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TKe2ElwG2QkSB_HnAReY-22" target="TKe2ElwG2QkSB_HnAReY-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TKe2ElwG2QkSB_HnAReY-22" value="si genero vacio" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="610.25" y="3264" width="157.5" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="TKe2ElwG2QkSB_HnAReY-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TKe2ElwG2QkSB_HnAReY-26" target="TKe2ElwG2QkSB_HnAReY-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TKe2ElwG2QkSB_HnAReY-26" value="Hola Sr. nombre + apellido" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="59" y="3468" width="228" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="TKe2ElwG2QkSB_HnAReY-28" value="Tu edad es: edad" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="83" y="3564" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TKe2ElwG2QkSB_HnAReY-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="TKe2ElwG2QkSB_HnAReY-31" target="TKe2ElwG2QkSB_HnAReY-32" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TKe2ElwG2QkSB_HnAReY-31" value="Hola Sra. nombre + apellido" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="323.5" y="3468" width="228" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="TKe2ElwG2QkSB_HnAReY-32" value="Tu edad es: edad" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="347.5" y="3564" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TKe2ElwG2QkSB_HnAReY-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="TKe2ElwG2QkSB_HnAReY-34" target="TKe2ElwG2QkSB_HnAReY-35" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TKe2ElwG2QkSB_HnAReY-34" value="Hola X. nombre + apellido" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="575" y="3468" width="228" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="TKe2ElwG2QkSB_HnAReY-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TKe2ElwG2QkSB_HnAReY-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="3780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TKe2ElwG2QkSB_HnAReY-35" value="Tu edad es: edad" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="599" y="3564" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TKe2ElwG2QkSB_HnAReY-38" value="FIN" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="360" y="3732" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
