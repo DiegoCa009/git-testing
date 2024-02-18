@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-18T14:42:54.453Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="9SIoLb1gSCNWMzov2CS6" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-18T15:22:25.770Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="eFpnyBJ6lYL6SHrnIMuu" version="23.1.5" type="github">
   <diagram name="Page-1" id="D6jSuuYGtf3E4rri9tUM">
-    <mxGraphModel dx="3176" dy="1178" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2142" dy="1174" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -459,6 +459,75 @@
         </mxCell>
         <mxCell id="XLz9ImO0OK9Tm3Yt1rik-58" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;FIN&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;" vertex="1" parent="1">
           <mxGeometry x="103.5" y="4194" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XLz9ImO0OK9Tm3Yt1rik-60" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;4.1&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="156" y="5424" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XLz9ImO0OK9Tm3Yt1rik-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;" edge="1" parent="1" source="XLz9ImO0OK9Tm3Yt1rik-61" target="XLz9ImO0OK9Tm3Yt1rik-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XLz9ImO0OK9Tm3Yt1rik-61" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;INICIO&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="269.5" y="5454" width="114.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="XLz9ImO0OK9Tm3Yt1rik-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;" edge="1" parent="1" source="XLz9ImO0OK9Tm3Yt1rik-64" target="XLz9ImO0OK9Tm3Yt1rik-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XLz9ImO0OK9Tm3Yt1rik-64" value="Definir limite como int" style="whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="256.13" y="5592" width="141.25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XLz9ImO0OK9Tm3Yt1rik-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;" edge="1" parent="1" source="XLz9ImO0OK9Tm3Yt1rik-66" target="XLz9ImO0OK9Tm3Yt1rik-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XLz9ImO0OK9Tm3Yt1rik-66" value="Definir a = 0&lt;br style=&quot;font-size: 19px;&quot;&gt;Definir b = 0" style="whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="256.12" y="5688" width="141.25" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="XLz9ImO0OK9Tm3Yt1rik-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;" edge="1" parent="1" source="XLz9ImO0OK9Tm3Yt1rik-68" target="XLz9ImO0OK9Tm3Yt1rik-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XLz9ImO0OK9Tm3Yt1rik-68" value="&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 19px;&quot;&gt;limite &amp;lt;- &quot;Ingrese limite mayor o igual a 2&quot;&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=19;align=center;" vertex="1" parent="1">
+          <mxGeometry x="189.43" y="5820" width="276.07" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="XLz9ImO0OK9Tm3Yt1rik-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=19;" edge="1" parent="1" source="XLz9ImO0OK9Tm3Yt1rik-72" target="XLz9ImO0OK9Tm3Yt1rik-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XLz9ImO0OK9Tm3Yt1rik-72" value="suma = a + b" style="whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="267.46500000000003" y="6002" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XLz9ImO0OK9Tm3Yt1rik-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;" edge="1" parent="1" source="XLz9ImO0OK9Tm3Yt1rik-75" target="XLz9ImO0OK9Tm3Yt1rik-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XLz9ImO0OK9Tm3Yt1rik-83" value="SI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSize=19;" vertex="1" connectable="0" parent="XLz9ImO0OK9Tm3Yt1rik-78">
+          <mxGeometry x="-0.1816" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XLz9ImO0OK9Tm3Yt1rik-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;" edge="1" parent="1" source="XLz9ImO0OK9Tm3Yt1rik-75" target="XLz9ImO0OK9Tm3Yt1rik-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XLz9ImO0OK9Tm3Yt1rik-84" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSize=19;" vertex="1" connectable="0" parent="XLz9ImO0OK9Tm3Yt1rik-82">
+          <mxGeometry x="0.0224" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XLz9ImO0OK9Tm3Yt1rik-75" value="Suma &amp;lt; limite?" style="rhombus;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="274.49" y="6120" width="104.5" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="XLz9ImO0OK9Tm3Yt1rik-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=19;" edge="1" parent="1" source="XLz9ImO0OK9Tm3Yt1rik-77" target="XLz9ImO0OK9Tm3Yt1rik-72">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="142" y="6024" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="142" y="6084" />
+              <mxPoint x="143" y="6084" />
+              <mxPoint x="143" y="6024" />
+              <mxPoint x="267" y="6024" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XLz9ImO0OK9Tm3Yt1rik-77" value="a = b&lt;br style=&quot;font-size: 19px;&quot;&gt;b = suma" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="69.43" y="6144" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XLz9ImO0OK9Tm3Yt1rik-81" value="FIN" style="ellipse;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="286.74" y="6322" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
