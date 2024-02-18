@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-18T14:32:08.774Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="m_WQva5cJzMLVkU7M_eN" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-18T14:35:55.908Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="tIYC4AqBLmizq4hxexi7" version="23.1.5" type="github">
   <diagram name="Page-1" id="D6jSuuYGtf3E4rri9tUM">
-    <mxGraphModel dx="1944" dy="1090" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2028" dy="1174" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -345,6 +345,19 @@
         <mxCell id="XLz9ImO0OK9Tm3Yt1rik-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XLz9ImO0OK9Tm3Yt1rik-7" target="XLz9ImO0OK9Tm3Yt1rik-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="XLz9ImO0OK9Tm3Yt1rik-51" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;" vertex="1" connectable="0" parent="XLz9ImO0OK9Tm3Yt1rik-15">
+          <mxGeometry x="-0.2651" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XLz9ImO0OK9Tm3Yt1rik-52" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;SI&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;" vertex="1" connectable="0" parent="XLz9ImO0OK9Tm3Yt1rik-15">
+          <mxGeometry x="-0.2647" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XLz9ImO0OK9Tm3Yt1rik-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XLz9ImO0OK9Tm3Yt1rik-7" target="XLz9ImO0OK9Tm3Yt1rik-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XLz9ImO0OK9Tm3Yt1rik-7" value="Ciclo&amp;nbsp; While = true" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="311" y="4320" width="161.72" height="140" as="geometry" />
         </mxCell>
@@ -354,20 +367,8 @@
         <mxCell id="XLz9ImO0OK9Tm3Yt1rik-10" value="Caso: 1" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="108" y="4692" width="121" height="108" as="geometry" />
         </mxCell>
-        <mxCell id="XLz9ImO0OK9Tm3Yt1rik-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XLz9ImO0OK9Tm3Yt1rik-14" target="XLz9ImO0OK9Tm3Yt1rik-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="XLz9ImO0OK9Tm3Yt1rik-14" value="Crear menu de consultas &quot;Reservar consulta&quot;, &quot;Mostrar consulta&quot;, &quot;Salir&quot;" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="247.5" y="4500" width="287" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="XLz9ImO0OK9Tm3Yt1rik-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XLz9ImO0OK9Tm3Yt1rik-16" target="XLz9ImO0OK9Tm3Yt1rik-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="XLz9ImO0OK9Tm3Yt1rik-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XLz9ImO0OK9Tm3Yt1rik-16" target="XLz9ImO0OK9Tm3Yt1rik-33">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="XLz9ImO0OK9Tm3Yt1rik-16" value="Elegir opcion" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="317.36" y="4632" width="149" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XLz9ImO0OK9Tm3Yt1rik-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XLz9ImO0OK9Tm3Yt1rik-20" target="XLz9ImO0OK9Tm3Yt1rik-22">
           <mxGeometry relative="1" as="geometry" />
@@ -430,6 +431,31 @@
         </mxCell>
         <mxCell id="XLz9ImO0OK9Tm3Yt1rik-37" value="Imprimir&amp;nbsp; todas las &lt;br&gt;consultas" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="330.62" y="4980" width="221.38" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="XLz9ImO0OK9Tm3Yt1rik-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XLz9ImO0OK9Tm3Yt1rik-44" target="XLz9ImO0OK9Tm3Yt1rik-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XLz9ImO0OK9Tm3Yt1rik-44" value="Caso: 3" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="658" y="4524" width="121" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="XLz9ImO0OK9Tm3Yt1rik-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.911;entryY=-0.028;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XLz9ImO0OK9Tm3Yt1rik-49" target="XLz9ImO0OK9Tm3Yt1rik-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="516" y="4404" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="804" y="4686" />
+              <mxPoint x="804" y="4404" />
+              <mxPoint x="509" y="4404" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XLz9ImO0OK9Tm3Yt1rik-49" value="Salir del programa" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="658" y="4656" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XLz9ImO0OK9Tm3Yt1rik-55" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;Mensaje &quot;Hasta luego&quot;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;" vertex="1" parent="1">
+          <mxGeometry x="59" y="4356" width="169" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="XLz9ImO0OK9Tm3Yt1rik-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.149;entryY=0.257;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XLz9ImO0OK9Tm3Yt1rik-7" target="XLz9ImO0OK9Tm3Yt1rik-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
